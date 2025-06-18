@@ -11,7 +11,7 @@
     @Tristan Huynh (on Slack)
 
     ## Team "Turing Up"
-    - [Team Member 1](GitHub profile link)
+    - [Tristan Huynh]([GitHub profile link](https://github.com/tridentH))
     - [Team Member 2](GitHub profile link)
     - [Team Member 3](GitHub profile link)
     <!-- Add all team members -->
