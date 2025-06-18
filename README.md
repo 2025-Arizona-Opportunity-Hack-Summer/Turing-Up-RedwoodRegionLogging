@@ -1,17 +1,17 @@
 
-    # 2025_summer Hackathon Project
+# 2025_summer Hackathon Project
 
-    ## Quick Links
-    - Nonprofit: [Redwood Region Logging Conference](https://ohack.dev/nonprofit/WONxYIazfrL2Bnew0npm)
-    - [Hackathon Details](https://www.ohack.dev/hack/2025_summer)
-    - [Team Slack Channel](https://opportunity-hack.slack.com/app_redirect?channel=turingup)
+## Quick Links
+- Nonprofit: [Redwood Region Logging Conference](https://ohack.dev/nonprofit/WONxYIazfrL2Bnew0npm)
+- [Hackathon Details](https://www.ohack.dev/hack/2025_summer)
+- [Team Slack Channel](https://opportunity-hack.slack.com/app_redirect?channel=turingup)
 
 
-    ## Creator
-    @Tristan Huynh (on Slack)
+## Creator
+@Tristan Huynh (on Slack)
 
-    ## Team "Turing Up"
-    - [Tristan Huynh]([GitHub profile link](https://github.com/tridentH))
+## Team "Turing Up"
+    - [Tristan Huynh]((https://github.com/tridentH)
     - [Team Member 2](GitHub profile link)
     - [Team Member 3](GitHub profile link)
     <!-- Add all team members -->
