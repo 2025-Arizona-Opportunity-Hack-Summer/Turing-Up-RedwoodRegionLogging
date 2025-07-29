@@ -4,12 +4,14 @@ import cors from 'cors';
 import 'dotenv/config';
 
 import classRoutes from './routes/classRoutes.js';
+import scanRoutes from './routes/scanRoutes.js';
 
 const app = express();
 app.use(cors());
 app.use(express.json());
 
 app.use('/api/classes', classRoutes);
+app.use('/api/scans', scanRoutes);
 
 app.get('/api/health', (_req, res) => res.json({ status: 'ok' }));
 
